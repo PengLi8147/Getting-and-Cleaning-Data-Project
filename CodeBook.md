@@ -65,23 +65,23 @@ The following variables measure the mean and the standard deviation of each reco
  
 The detailed description of the measurement infromation can be found in the features_info.txt file included in the data zip file.
 
-tBodyAcc_mean_X
-tBodyAcc_mean_Y
-tBodyAcc_mean_Z
-tGravityAcc_mean_X
-tGravityAcc_mean_Y
-	.
-	.
-	.
-fBodyAccJerk_std_Y
-fBodyAccJerk_std_Z
-fBodyGyro_std_X
-fBodyGyro_std_Y
-fBodyGyro_std_Z
-fBodyAccMag_std
-fBodyAccJerkMag_std
-fBodyGyroMag_std
-fBodyGyroJerkMag_std
+- tBodyAcc_mean_X
+- tBodyAcc_mean_Y
+- tBodyAcc_mean_Z
+- tGravityAcc_mean_X
+- tGravityAcc_mean_Y
+- 	.
+- 	.
+- 	.
+- fBodyAccJerk_std_Y
+- fBodyAccJerk_std_Z
+- fBodyGyro_std_X
+- fBodyGyro_std_Y
+- fBodyGyro_std_Z
+- fBodyAccMag_std
+- fBodyAccJerkMag_std
+- fBodyGyroMag_std
+- fBodyGyroJerkMag_std
 
 
 
