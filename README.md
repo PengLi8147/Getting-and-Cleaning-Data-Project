@@ -23,10 +23,10 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 The Project includes the following files:
 
-README.MD - Outlines the procedure of the whole analysis 
-CodeBook.MD - Describes the experiment data and variables included in the codes and data
-run_analysis.R - R script that performs this analysis includng merge, clean-up, transform, and summarize the data.
-tidydata.txt - The completed tidydata outputed by this run_analysis.R script.
+- README.MD - Outlines the procedure of the whole analysis 
+- CodeBook.MD - Describes the experiment data and variables included in the codes and data
+- run_analysis.R - R script that performs this analysis includng merge, clean-up, transform, and summarize the data.
+- tidydata.txt - The completed tidydata outputed by this run_analysis.R script.
 
 ## Procedure
 
